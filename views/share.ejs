@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sharer Link</title>
+  <link rel="stylesheet" href="../assets/css/index.css">
+</head>
+<body>
+  <div class="container">
+    <div id="child">
+      <p id='timer'></p><br>
+      <div id='filelink'>
+        <p>Download Link:</p>
+        <img src="<%= qrcode %>" alt="qrcode" width="300" height="300"/>
+        <div id='permalink_section'>
+          <a href="<%= url %>" id='link' download>Download Link</a>
+        </div>
+        <button onclick="copy(event)">Copy Link</button>
+      </div>
+      <div id='expired'></divs>
+    </div>
+  </div>
+</body>
+<script type="text/javascript" src="../assets/js/share.js"></script>
+</html>

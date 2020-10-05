@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Inter';
+  src: url(../fonts/Inter.ttf) format('truetype');
+}
+html,body,.container{
+  height:100%;
+  font-family: 'Inter';
+}
+.container {
+  display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+input[type='file']{
+  margin: 20px 0px 20px 50px;
+}
+label{
+  font-size: 20px;
+  font-weight: 700;
+}
+form{
+  border: 3px solid black;
+  padding:40px;
+}

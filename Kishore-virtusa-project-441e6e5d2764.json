@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kishore-virtusa-project",
+  "private_key_id": "441e6e5d2764c127e35eddd594566d2b12aebcf6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCz6ZJRMsFNV9IU\nhBC+PI9a63so92at5A2AXyedCr5eekzDMGi/3eIFNYP9S8t05f+u1is0Q0on5R22\n9klZOE3j5nrH2rTf0W2QC+f8+0DuuN8gI8mdA3ba6EPKprgsCDsrUZHkaQ3dDtIk\nGELk24ZuXJskb9G3CYnEKAuTo4XkARIsBIYnk6ZYxrX3dxu7l6br4Ovfey4XP22t\n4+zVDIQNv/BXk9i3iveujTKOY7TxmpqZE42xhikblEXwMegxBpiGMymeAEGp0jAJ\nfL4LJV6bxiim/VbLTvTaQeXp0T1AKrW6kiiGcQMKN1rVUMaS5/0n1o4CWPdpEk5Z\nh+DTexnZAgMBAAECggEAKBNq7uBt87MQzlYevqmRy1ByFk2J10laApLvqYk3n6cB\ni2cwpjCgRMXHeXhVQVxsaH83j4Q/tARS6qsQ6qlinFX+Wp9qtAKcM76bNhynuaV/\nulKOegXIB3o+g5lApDpPJ9abN3R5TJkdEUJAQGdwGgxR2Lt5zRp4UDQVZBVEYWXF\nP9HIwqPx0y9JotiaVxeBLAyZbPIJcURf/xLm25YWWCXm+3x15HynmwkQwjBAf/7u\nRc3vtxUxJoRDC2R2O/HYqnpAH6tr63dZVvJvqRr07A9ZW1U6ILusTV2NK9fP0DG8\n6wwcMQY2UFWIrt9wNprYFStyimaPhov1b2gfQdQeqwKBgQD0hoQcbfC0+WHsH+RY\nzGiIsHYedUKjbDBB4dj5/6mCTTlVSMaMDdlAhJFZPk6aIoVLPRFMF4qlx7WNqdJu\nNX7wtr4LLtWra7aA4LdhiA7ZmsSN8oK94jwL62bwzlWGHssQcYKn3QhwoP1d2tAA\n6TPIQJvyoBUjxjsQv7U9sHnZiwKBgQC8WtvcsVsbZ35OeUBftALp8oqYf8X4zEsU\nEBoZ1XvxvwxnSNsldAP5t/8YvrnYBL6o4Ha0O/tr1ZyrUmKRw1fOdENDGoBjorLv\noBcT1Ut+1ve06NBSreSob0z3qSPHMXrFnerAaWUTiXOg/qyp0J2L+m4tQpfTXwU4\ncFla5dmeqwKBgQCC5BKJyUvlA+0n4TZxVhHKwXKpASnHotz+Fy/3OqR5DG9ZOJiX\nVb5qa8wGEnUuyrXBPZIpwhxEe2+ywinTNq2ZmqiGAe78UK8js6ZV/ee9EbyPIzZb\nAGQWGU9ELZ7YKVmXlrtSsd2XtIWLnNpk8m/2jKctrAVE3hK193jD6dh/2wKBgEmI\nKwcoUgoLyDp4iZITI4QThNnuH+p2TuUhOB9XwZBp5jy4K52egiLOGw+c/c6AY7Jo\nFs9cD1ZUyVn0yrhfC3t01gFvain7jWGRHRFIFrYI1CFTNmjgrEC5WtHgvS/5eBWI\nBeph+uy6n2J9qgiNgcPw22xd8Am7sb0L10ZuLxwLAoGAc2NwgzB5qD+iRuq+hcKK\nuPA7xrmPFSes68ZGll/BdVllP5W1eloOTZs8cXivOzQokE0/ccBGeojNPYLNrDkQ\ndaeNBYF0nzqRDQTI1J+jIgpaSN9SV/T3lw5FxKp/7cEgjBsXVDQfZ06RH5dLLB7I\nCgV6/Cr3kEdXJ+6a1mTITxE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "api-service-account@kishore-virtusa-project.iam.gserviceaccount.com",
+  "client_id": "107228948080401937548",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/api-service-account%40kishore-virtusa-project.iam.gserviceaccount.com"
+}
